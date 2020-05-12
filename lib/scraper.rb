@@ -5,6 +5,13 @@ require 'nokogiri'
 require 'byebug'
 require 'json'
 
+# def initialize
+#   @url = 'https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data#cite_note-15'
+#   @unparsed_page = HTTParty.get(url)
+#   @parsed_page = Nokogiri::HTML(unparsed_page)
+#   data = []
+# end
+
 
 def covid
   unparsed_page = HTTParty.get('https://en.wikipedia.org/wiki/Template:COVID-19_pandemic_data#cite_note-15')

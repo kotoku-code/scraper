@@ -29,12 +29,12 @@ def covid
                     "total_recovered": table_data[6], 
                     "active_cases": table_data[7], 
                     "first_case": table_data[8] }
-    data << data_hash
+    @data << data_hash
     i += 1
   end
- data
+ @data
  
 end
 end
 
-# puts all_countries
+# puts covid

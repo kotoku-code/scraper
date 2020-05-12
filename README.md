@@ -1,37 +1,30 @@
 # scraper
 ruby capstone project
 
-# Project Name
 
-> NYT Clone.
+![screenshot](file:///E:/documents/scraper/Capture.PNG)
 
-![screenshot](./demo.png)
-
-This Is Clone of the new york times article.
+Building a scraper for live covid-19 data
 
 ## Built With
 
-- HTML
-- CSS
+-ruby
+-rspec
+
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/Spayco/NYT-Clone/master/index.html)
+[Live Demo Link](N/A)
 
 
 ### Usage
 
-- open index.html file
+- clone git@github.com:kotoku-code/scraper.git into your terminal 
+- type in terminal ruby bin main.rb
 
 
 
 ## Authors
-
-👤 **SpaYco**
-
-- Github: [@SpaYco](https://github.com/SpaYco)
-- Twitter: [@iSpaYco](https://twitter.com/iSpaYco)
-- Linkedin: [Aziz Mejri](https://www.linkedin.com/in/spayco/)
 
 👤 **Kotoku Kennedy**
 

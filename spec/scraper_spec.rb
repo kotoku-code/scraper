@@ -22,3 +22,4 @@ RSpec.describe Scraper do
       expect(scraper.instance_variable_get(:@data)).not_to eq([''])
     end
   end
+end

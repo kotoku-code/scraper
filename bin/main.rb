@@ -4,4 +4,3 @@ require_relative '../lib/scraper.rb'
 
 start = Scraper.new
 start.covid
-

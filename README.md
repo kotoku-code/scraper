@@ -6,21 +6,36 @@ ruby capstone project
 
 Building a scraper for live covid-19 data
 
+## Table of Contents
+
+* [About the Project](#about-the-project)
+* [LIVE VIDEO](#live_video)
+* [Built With](#built_with)
+* [Usage](#usage)
+* [Authors](#authors)
+
+## About the project
+
+Capstone projects are solo projects at the end of the each of the Microverse Main Technical Curriculum sections. It is a real-world-like project built with business specifications This project was at the end of the Ruby curriculum section. I was asked to create a web scraper with Ruby. I chose to scrape information from the official covid-19 website, <a href="https://www.worldometers.info/coronavirus/"></a> . My project collects information and live statistics from various countries world-wide.
+
+## LIVE VIDEO 
+
+https://www.loom.com/share/745a6f40ae1d4697b4a94091a2296b29
+
+
 ## Built With
 
 -ruby
 -rspec
 
 
-## Live Demo
-
-[Live Demo Link](N/A)
-
-
 ### Usage
 
-- clone git@github.com:kotoku-code/scraper.git into your terminal 
-- type in terminal ruby bin main.rb
+- $  git clone git@github.com:kotoku-code/scraper.git into your terminal 
+- $  bundle install    -> run this command to install the required gems
+- $  bin/main.rb       -> run this command to run the program
+- $  gem install rspec -> run this command to install rspec 
+- $  rspec             ->run this command to test the program with rspec
 
 
 

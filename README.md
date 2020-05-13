@@ -1,10 +1,10 @@
 # scraper
 ruby capstone project
 
-
-![screenshot](file:///E:/documents/scraper/Capture.PNG)
-
 Building a scraper for live covid-19 data
+
+demo image = (https://user-images.githubusercontent.com/53125243/81801591-f45f6b00-9514-11ea-95a2-ef0d562cefc7.PNG))
+
 
 ## Table of Contents
 
